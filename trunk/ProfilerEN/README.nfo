@@ -1,0 +1,26 @@
+README
+
+Developed by MauroEldritch
+
+Running:
+
+English:
+Simple report:
+node ProfilerEN.js simple 
+
+Complete report:
+
+node ProfilerEN.js full
+
+
+Spanish:
+
+Informe completo:
+node ProfilerES.js full
+
+Informe simple:
+node ProfilerES.js simple
+
+Regards,
+
+http://eldritch.com.ar
